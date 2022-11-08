@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
-import { LogMethod } from 'lib/decorators/src/log.decorator';
-import { ObserveInput } from 'lib/decorators/observe-input.decorator';
+import { LogMethod, ObserveInput } from 'lib/decorators/public_api';
+
 import { Observable } from 'rxjs';
 
 @Component({
