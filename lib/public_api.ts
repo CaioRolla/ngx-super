@@ -1,1 +1,1 @@
-export * from './src/testing';
+export const EMPTY_PACKAGE: boolean = true;

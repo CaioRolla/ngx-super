@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
-import { LIB_TEST } from 'ngx-super';
+// import { SUBDIR } from 'ngx-super/subdir';
+// import { SUBDIR as SUBIR2 } from 'ngx-super/subdir2';
+// import { EMPTY_PACKAGE } from 'ngx-super';
 
 @Component({
   selector: 'app-root',
@@ -7,5 +9,5 @@ import { LIB_TEST } from 'ngx-super';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = LIB_TEST;
+  // title = SUBDIR + SUBIR2 + EMPTY_PACKAGE;
 }
