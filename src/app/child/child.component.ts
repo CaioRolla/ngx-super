@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { LogMethod } from 'lib/decorators/log.decorator';
+import { LogMethod } from 'lib/decorators/src/log.decorator';
 import { ObserveInput } from 'lib/decorators/observe-input.decorator';
 import { Observable } from 'rxjs';
 

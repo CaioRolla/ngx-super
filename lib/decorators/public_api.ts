@@ -1,2 +1,2 @@
 export * from './observe-input.decorator';
-export * from './log.decorator';
+export * from './src/log.decorator';
