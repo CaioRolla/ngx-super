@@ -1,0 +1,10 @@
+{
+    "name": "ngx-super",
+    "version": "0.0.1",
+    "author": "Caio Rolla <me@caiorolla.com>",
+    "license": "MIT",
+    "peerDependencies": {
+      "@angular/core": ">=5.0.0",
+      "@angular/common": ">=5.0.0"
+    }
+  }

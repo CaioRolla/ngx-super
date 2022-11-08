@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { LIB_TEST } from 'ngx-super';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ngx-super';
+  title = LIB_TEST;
 }
